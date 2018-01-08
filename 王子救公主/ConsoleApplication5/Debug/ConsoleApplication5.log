@@ -1,0 +1,26 @@
+﻿  ConsoleApplication5.cpp
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(406): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(410): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(461): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(471): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(481): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(690): warning C4838: 从“int”转换到“double”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(699): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(699): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(700): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(700): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(701): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(701): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(707): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(707): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(708): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(708): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(710): warning C4838: 从“double”转换到“int”需要收缩转换
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(710): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(1423): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(1557): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(1696): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(1835): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\university\c++\finalcheck_beatdownmonsters\王子救公主\consoleapplication5\consoleapplication5.cpp(2109): warning C4129: “ ”: 不可识别的字符转义序列
+  LINK : 没有找到 E:\University\C++\finalCheck_BeatDownMonsters\王子救公主\Debug\ConsoleApplication5.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ConsoleApplication5.vcxproj -> E:\University\C++\finalCheck_BeatDownMonsters\王子救公主\Debug\ConsoleApplication5.exe
